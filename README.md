@@ -18,8 +18,8 @@ Team Member:
 <br>  Development Duty: Programmer,Game Designer</br>
 ----------------------------------------------------------------------------------------------------------------------------
 <br>  Member[2] >>>>>>         </br>
-<br>  Github  ID      : </br>
-<br>  Contact Email   : </br>
+<br>  Github  ID      : finalsola</br>
+<br>  Contact Email   : 122825885@qq.com</br>
 <br>  Development Duty: Programmer,Game Designer</br>
 ----------------------------------------------------------------------------------------------------------------------------
 <br></br>
