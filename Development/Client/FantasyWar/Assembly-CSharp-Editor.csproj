@@ -46,34 +46,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\AnimationLinkEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\AstarPathEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\AstarUpdateChecker.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\AstarUpdateWindow.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\CustomGraphEditorAttribute.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\EditorGUIx.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\EditorUtilities.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\GraphEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\GridGeneratorEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\LayerGridGraphEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\NavMeshGeneratorEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\PointGeneratorEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphEditors\RecastGraphEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\GraphUpdateSceneEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\Misc\AstarEnumFlagDrawer.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\ModifierEditors\RaycastModifierEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\ModifierEditors\SmoothModifierEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\OptimizationHandler.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\RVONavmeshEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\RVOSimulatorEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\RVOSquareObstacleEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\RecastMeshObjEditor.cs" />
-     <Compile Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\SeekerEditor.cs" />
-     <None Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\EditorAssets\Materials\Navmesh.shader" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\AnimationLinkEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\AstarPathEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\AstarUpdateChecker.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\AstarUpdateWindow.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\CustomGraphEditorAttribute.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\EditorGUIx.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\EditorUtilities.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\GraphEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\GridGeneratorEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\LayerGridGraphEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\NavMeshGeneratorEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\PointGeneratorEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphEditors\RecastGraphEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\GraphUpdateSceneEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\Misc\AstarEnumFlagDrawer.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\ModifierEditors\RaycastModifierEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\ModifierEditors\SmoothModifierEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\OptimizationHandler.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\RVONavmeshEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\RVOSimulatorEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\RVOSquareObstacleEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\RecastMeshObjEditor.cs" />
+     <Compile Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\SeekerEditor.cs" />
+     <None Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\EditorAssets\Materials\Navmesh.shader" />
      <None Include="Assets\Resources\3rdPartyAssetPackage\Dwarf And Human Pack\Humans\README.txt" />
      <None Include="Assets\Resources\3rdPartyAssetPackage\Dwarf And Human Pack\Dwarves\README.txt" />
-     <None Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\Editor\EditorAssets\Materials\NavmeshOutline.shader" />
-     <None Include="Assets\Resources\Scripts\AI\AStarPathFindingPro\link.xml" />
+     <None Include="Assets\Resources\Script\AI\AStarPathFindingPro\Editor\EditorAssets\Materials\NavmeshOutline.shader" />
+     <None Include="Assets\Resources\Script\AI\AStarPathFindingPro\link.xml" />
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -129,16 +129,16 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.ClipperLib">
- <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Scripts/AI/AStarPathFindingPro/Plugins/Clipper/Pathfinding.ClipperLib.dll</HintPath>
+ <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Script/AI/AStarPathFindingPro/Plugins/Clipper/Pathfinding.ClipperLib.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Scripts/AI/AStarPathFindingPro/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Script/AI/AStarPathFindingPro/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.JsonFx">
- <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Scripts/AI/AStarPathFindingPro/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
+ <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Script/AI/AStarPathFindingPro/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Poly2Tri">
- <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Scripts/AI/AStarPathFindingPro/Plugins/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
+ <HintPath>/Users/hxsd/Desktop/workspace(Unity)/Fantasy-War/Development/Client/FantasyWar/Assets/Resources/Script/AI/AStarPathFindingPro/Plugins/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
