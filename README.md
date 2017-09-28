@@ -5,7 +5,7 @@ Fantasy War is a RTS Game Demo which is developed base on Unity Engine.
 
 Team Member:
 ----------------------------------------------------------------------------------------------------------------------------
-1.Github  ID      :\n
+<br>1.Github  ID      :</br>
   Contact Email   :\n
   Development Duty: Programmer,Game Designer\n
 ----------------------------------------------------------------------------------------------------------------------------
