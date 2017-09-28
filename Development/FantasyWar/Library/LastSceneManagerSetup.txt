@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Bitgem_RTS_Pack/Human_Buildings/Animations_On.unity
-  isLoaded: 1
-  isActive: 1
