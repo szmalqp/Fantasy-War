@@ -4,65 +4,6 @@ using UnityEngine;
 
 public sealed partial class InputManager
 {
-    #region Key state Dictionary that control all the key state event and be as state counter
-#if UNITY_EDITOR
-    //private Dictionary<KeyCode, int> _keyCodeStateDic_getKeyDown;
-    //private Dictionary<KeyCode, int> KeyCodeStateDic_getKeyDown
-    //{
-    //    get
-    //    {
-    //        if (_keyCodeStateDic_getKeyDown == null)
-    //        {
-    //            _keyCodeStateDic_getKeyDown = new Dictionary<KeyCode, int>();
-    //        }
-    //        return _keyCodeStateDic_getKeyDown;
-    //    }
-    //}
-    //private Dictionary<KeyCode, int> _keyCodeStateDic_getKeyUp;
-    //private Dictionary<KeyCode, int> KeyCodeStateDic_getKeyUp
-    //{
-    //    get
-    //    {
-    //        if (_keyCodeStateDic_getKeyUp == null)
-    //        {
-    //            _keyCodeStateDic_getKeyUp = new Dictionary<KeyCode, int>();
-    //        }
-    //        return _keyCodeStateDic_getKeyUp;
-    //    }
-    //}
-    //private Dictionary<KeyCode, int> _keyCodeStateDic_getKey;
-    //private Dictionary<KeyCode, int> KeyCodeStateDic_getKey
-    //{
-    //    get
-    //    {
-    //        if (_keyCodeStateDic_getKey == null)
-    //        {
-    //            _keyCodeStateDic_getKey = new Dictionary<KeyCode, int>();
-    //        }
-    //        return _keyCodeStateDic_getKey;
-    //    }
-    //}
-
-    ///// <summary>
-    ///// 
-    ///// </summary>
-    ///// <param name="keyCode"></param>
-    //private void keyDownCounterAdd(KeyCode keyCode)
-    //{
-    //    int count = KeyCodeStateDic_getKeyDown[keyCode];
-    //    KeyCodeStateDic_getKeyDown[keyCode] = count + 1;
-    //}
-    ///// <summary>
-    ///// 
-    ///// </summary>
-    ///// <param name="keyCode"></param>
-    //private void keyUpCounterAdd(KeyCode keyCode)
-    //{
-    //    int count = KeyCodeStateDic_getKeyUp[keyCode];
-    //    KeyCodeStateDic_getKeyUp[keyCode] = count + 1;
-    //}
-#endif
-
     private Dictionary<KeyCode, bool> _flagDict_IsKeyDown;
     private Dictionary<KeyCode, bool> FlagDict_IsKeyDown
     {
