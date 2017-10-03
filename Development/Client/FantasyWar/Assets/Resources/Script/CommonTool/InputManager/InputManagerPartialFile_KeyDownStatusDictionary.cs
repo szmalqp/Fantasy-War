@@ -67,7 +67,7 @@ public sealed partial class InputManager
         //keyCodeDownUpStatusBinding(KeyCode.F, false);
         //keyCodeDownUpStatusBinding(KeyCode.H, false);
         //keyCodeDownUpStatusBinding(KeyCode.Space, false);
-        keyCodeDownUpStatusBinding(KeyCode.Escape, false);
+        //keyCodeDownUpStatusBinding(KeyCode.Escape, false);
     }
 
     public bool isKeyCodeDownStatusMonitoring(KeyCode keyCode)
@@ -95,6 +95,4 @@ public sealed partial class InputManager
             FlagDict_IsKeyDown[keyCode] = isDown;
         }
     }
-
-    #endregion
 }
