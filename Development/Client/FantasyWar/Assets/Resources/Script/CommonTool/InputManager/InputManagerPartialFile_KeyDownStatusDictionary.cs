@@ -88,7 +88,10 @@ public sealed partial class InputManager
         }
         if (!FlagDict_IsKeyDown.ContainsKey(keyCode))
         {
-            FlagDict_IsKeyDown.Add(keyCode, isDown);
+            lock (FlagDict_IsKeyDown)
+            {
+                FlagDict_IsKeyDown.Add(keyCode, isDown);
+            }
         }
         else
         {
